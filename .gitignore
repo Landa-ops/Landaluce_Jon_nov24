@@ -1,2 +1,6 @@
 *.xsd
 top_secret/
+
+# Comentario en gitignore para hacer commit de este punto
+# ya que como otros compañeros he creado la estrcutura completa 
+# y he realizado un solo commit, de este modo lo replicamos
